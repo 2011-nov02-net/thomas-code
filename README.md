@@ -1,2 +1,3 @@
 # thomas-code
-โ๏∀๏ใ
+☹ ☹ ☹ ☹ ☹
+It no do work good.
