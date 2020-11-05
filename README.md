@@ -1,3 +1,4 @@
 # thomas-code
-☹ ☹ ☹ ☹ ☹
-It no do work good.
+It's actually looking pretty functional / stable.
+
+Neat!
