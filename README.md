@@ -1,2 +1,0 @@
-# thomas-code
-โ๏∀๏ใ
