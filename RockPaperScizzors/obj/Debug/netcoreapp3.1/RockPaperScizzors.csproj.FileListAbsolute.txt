@@ -1,0 +1,15 @@
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.AssemblyInfo.cs
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/bin/Debug/netcoreapp3.1/RockPaperScizzors.deps.json
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/bin/Debug/netcoreapp3.1/RockPaperScizzors.runtimeconfig.json
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/bin/Debug/netcoreapp3.1/RockPaperScizzors.runtimeconfig.dev.json
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/bin/Debug/netcoreapp3.1/RockPaperScizzors.dll
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/bin/Debug/netcoreapp3.1/RockPaperScizzors.pdb
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.dll
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.pdb
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.genruntimeconfig.cache
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/bin/Debug/netcoreapp3.1/Figgle.dll
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/Debug/netcoreapp3.1/RockPaperScizzors.csproj.CopyComplete
