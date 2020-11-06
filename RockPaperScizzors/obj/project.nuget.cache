@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ibXDu52i1jhVDxsfbz5UqGBtqjs/F0HaHbuLLxYkebRoqRmzLJn/iaYICRFqHI6OlpeRXinCNcJBqIXKk7vRow==",
+  "dgSpecHash": "/IfMdDnYHjJmEJaKCeYtnhqNLQ+uOMPfTUsw1ExO3/MUFyHzfkzPdk8S3GdOa4ARAwqGMgii6cC/YvhqWCeORw==",
   "success": true,
   "projectFilePath": "/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/RockPaperScizzors.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "/Users/borosaith/.nuget/packages/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/borosaith/.nuget/packages/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/borosaith/.nuget/packages/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "/Users/borosaith/.nuget/packages/sadconsole/8.99.3/sadconsole.8.99.3.nupkg.sha512",
     "/Users/borosaith/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
     "/Users/borosaith/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
     "/Users/borosaith/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/RockPaperScizzors.csproj": {}
+    "/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/EventsAndDelegates.csproj": {}
   },
   "projects": {
-    "/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/RockPaperScizzors.csproj": {
+    "/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/EventsAndDelegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/RockPaperScizzors.csproj",
-        "projectName": "RockPaperScizzors",
-        "projectPath": "/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/RockPaperScizzors.csproj",
+        "projectUniqueName": "/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/EventsAndDelegates.csproj",
+        "projectName": "EventsAndDelegates",
+        "projectPath": "/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/EventsAndDelegates.csproj",
         "packagesPath": "/Users/borosaith/.nuget/packages/",
-        "outputPath": "/Users/borosaith/Desktop/Revature/thomas-code/RockPaperScizzors/obj/",
+        "outputPath": "/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/borosaith/.nuget/NuGet/NuGet.Config"
@@ -35,20 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            },
-            "figgle": {
-              "target": "Package",
-              "version": "[0.4.0, )"
-            },
-            "sadconsole": {
-              "target": "Package",
-              "version": "[*, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

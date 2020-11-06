@@ -273,6 +273,18 @@
           }
         }
       },
+      "SadConsole/8.99.3": {
+        "type": "package",
+        "dependencies": {
+          "newtonsoft.json": "11.0.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/SadConsole.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SadConsole.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1565,6 +1577,21 @@
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
+      ]
+    },
+    "SadConsole/8.99.3": {
+      "sha512": "+jh51lyR331oMx5uOQwOMCmqL1MbF2c6BDRhKE7Vn0eYTp0rYvyA3SFlx44ddrESOkDDXHtfeIbud4Z8+eM8fQ==",
+      "type": "package",
+      "path": "sadconsole/8.99.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/netstandard2.0/SadConsole.dll",
+        "lib/netstandard2.0/SadConsole.xml",
+        "readme.txt",
+        "sadconsole.8.99.3.nupkg.sha512",
+        "sadconsole.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -4535,7 +4562,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Newtonsoft.Json >= 12.0.3",
-      "figgle >= 0.4.0"
+      "figgle >= 0.4.0",
+      "sadconsole >= *"
     ]
   },
   "packageFolders": {
@@ -4580,6 +4608,10 @@
           "figgle": {
             "target": "Package",
             "version": "[0.4.0, )"
+          },
+          "sadconsole": {
+            "target": "Package",
+            "version": "[*, )"
           }
         },
         "imports": [

@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfo.cs
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.deps.json
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.json
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.dev.json
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.dll
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.pdb
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.dll
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.pdb
+/Users/borosaith/Desktop/Revature/thomas-code/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.genruntimeconfig.cache
